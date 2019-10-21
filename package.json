@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-app",
+  "name": "prod-bio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
+  "homepage": "http://iamcpdev.me/prod",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
